@@ -1,0 +1,29 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "This is Hello React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham1io/Hello-React.git"
+  },
+  "keywords": [],
+  "author": "Shubham kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham1io/Hello-React/issues"
+  },
+  "homepage": "https://github.com/Shubham1io/Hello-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "Browserlist" :[
+    "last 2 versions"
+  ]
+}
