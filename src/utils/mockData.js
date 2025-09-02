@@ -95,7 +95,7 @@ const reslist = [
                 "Tibetan",
                 "Desserts"
             ],
-            "avgRating": 4.2,
+            "avgRating": "3.5",
             "parentId": "61955",
             "avgRatingString": "4.2",
             "totalRatingsString": "4.3K+",
@@ -191,7 +191,7 @@ const reslist = [
                 "Tibetan",
                 "Desserts"
             ],
-            "avgRating": 4.4,
+            "avgRating": 4,
             "parentId": "434792",
             "avgRatingString": "4.4",
             "totalRatingsString": "3.1K+",
