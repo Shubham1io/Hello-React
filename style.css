@@ -30,8 +30,15 @@
 .res-card{
     padding: 2px;
     margin: 2px;
-    width: 230px;
+    width: 240px;
     background-color: beige;
+    text-align: center;
+    font-size: 15px;
+    text-wrap:wrap ;
+}
+
+.res-card.h4{
+    font: 10px;
 }
 .search{
     padding: 10px;
@@ -43,11 +50,6 @@
     height: 250px;
 }
 
-.res-card{
-    text-align: center;
-    font-size: 15px;
-}
-
 .res-card:hover{
     border: 1px solid black;
     cursor: pointer;
@@ -57,4 +59,44 @@
 .res-container{
     display: flex;
     flex-wrap: wrap;
+}
+
+.filter-btn{
+    padding: 5px;
+    margin: 5px;
+    margin-bottom: 8px;
+    cursor: pointer;
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shimmer-cards{
+    margin: 10px;
+    width:200px;
+    height: 400px;
+    background-color: #f0f0f0;
+}
+.login{
+    margin: 10px;
+    width: 50px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.filter{
+    display: flex;
+}
+
+.search-box{
+    margin: 5px,10px;
+    padding-left: 5px;
+}
+
+.search-btn{
+    margin: 5px,10px;
+    padding-left: 5px;
+    cursor: pointer;
 }
