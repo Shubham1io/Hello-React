@@ -40,7 +40,7 @@ const Header = () => {
                         <Link to="/About">About Us</Link>
                     </li>
                     <li className="px-4 hover:shadow-md">
-                        <Link to="/cart">Cart🛒({cartItems.length})</Link>
+                        <Link to="/cart">🛒Cart({cartItems.length})</Link>
                     </li>
 
 

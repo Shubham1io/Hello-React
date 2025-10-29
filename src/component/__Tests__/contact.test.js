@@ -30,7 +30,7 @@ describe("Contact Us page test cases", () => {
 
         //querying
         const inputBoxes = screen.getAllByRole("textbox");
-        console.log(inputBoxes);
+        //console.log(inputBoxes);
 
         //Assertion
         expect(inputBoxes.length).toBe(2);

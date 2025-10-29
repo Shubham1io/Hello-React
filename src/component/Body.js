@@ -1,5 +1,4 @@
 import Restaurantcard, { WithPromotedLabel } from "./Restaurantcard";
-import reslist from "../utils/mockData";
 import { useState, useEffect,useContext } from "react";
 import Shimmer from "./Shimmer";
 import useOnlineStatus from "../utils/useOnlineStatus";
