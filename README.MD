@@ -4,31 +4,38 @@
 
 Key Features (Inferred)Browse/Search: 
 
-Explore a list of delightful food items (using mock or public restaurant APIs).Dynamic UI: Fast, responsive user interface built with React.Component-Based: Modular and reusable UI components.Responsive Design: Optimized for all screen sizes using Tailwind CSS.
+Browse/Search: Explore a list of delightful food items (using mock or public restaurant APIs).
+
+Dynamic UI: Fast, responsive user interface built with React.
+
+Component-Based: Modular and reusable UI components.
+
+Responsive Design: Optimized for all screen sizes using Tailwind CSS.
+
 
 ⚙️ Technology Stack
-This project is built using a modern JavaScript ecosystem focused on performance, modularity, and rapid development.
-Category                Technology              Description
-Frontend Library       React (with Hooks)       "A JavaScript library for building user interfaces, handling dynamic content and state management."
-Bundler                Parcel                    A zero-configuration web application bundler for fast and efficient development builds.
-Styling                Tailwind CSS              A utility-first CSS framework for rapidly styling the application with a focus on responsiveness.
-Testing                Jest &                    Used for unit testing and simulating user behavior to ensure component reliability
-                       React Testing Library
-Language               JavaScript (ES6+)         The core programming language for the application logic.
-Transpiler             Babel                     Used by Parcel to ensure modern JavaScript features are compatible across all browsers.
+This project leverages the following key technologies:
 
-📂 Project StructureThe codebase follows a standard modern React application structure:Namaste-Delights/
-├── node_modules/       # Project dependencies
-├── src/                # All source code
-│   ├── components/     # Reusable React components (e.g., Header, Footer, MenuCard)
-│   ├── utils/          # Utility functions and constants (e.g., API calls, mock data)
-│   ├── App.js          # The main application component
-│   └── index.js        # Entry point for React rendering
-├── images/             # Static assets (logos, background images, etc.)
-├── index.html          # Main HTML entry file
-├── package.json        # Project metadata and dependencies
-├── .gitignore          # Files/folders to ignore from version control
-├── tailwind.config.js  # Configuration for Tailwind CSS
-├── .postcssrc          # Configuration for PostCSS (used by Tailwind)
-├── .parcelrc           # Configuration for Parcel bundler
-└── README.MD           # This documentation file
+Frontend Library: React (with Hooks)
+
+Purpose: Building the dynamic user interface and managing application state.
+
+Bundler: Parcel
+
+Purpose: Fast, zero-configuration web application bundling for development and production.
+
+Styling: Tailwind CSS
+
+Purpose: Utility-first CSS framework for rapid and responsive styling.
+
+Testing: Jest & React Testing Library
+
+Purpose: Frameworks for unit and integration testing to ensure code reliability.
+
+Language: JavaScript (ES6+)
+
+Purpose: The primary programming language used for all application logic.
+
+Transpiler: Babel
+
+Purpose: To convert modern JavaScript syntax into compatible versions for wider browser support.
