@@ -13,7 +13,11 @@ Component-Based: Modular and reusable UI components.
 Responsive Design: Optimized for all screen sizes using Tailwind CSS.
 
 
+
+
 ⚙️ Technology Stack
+
+
 This project leverages the following key technologies:
 
 Frontend Library: React (with Hooks)
