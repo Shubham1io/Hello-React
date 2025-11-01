@@ -64,7 +64,9 @@ const Body = () => {
                 <div className="filter flex items-center">
                     <div className="search p-4 m-4">
                         <input
-                            type="text" className="border border-solid border-black hover:shadow-lg"
+                            type="text" 
+                            data-testid="searchInput"
+                            className="border border-solid border-black hover:shadow-lg"
                             value={searchText} onChange={(e) => {
                                 setsearchText(e.target.value);
                             }}

@@ -10,5 +10,4 @@ it("should rendered restaurant component with props data" ,()=>{
     const name = screen.getByText("Pizza Hut");
 
     expect(name).toBeInTheDocument();
-
 });
