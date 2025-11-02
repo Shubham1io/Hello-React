@@ -13,7 +13,7 @@ Component-Based: Modular and reusable UI components.
 Responsive Design: Optimized for all screen sizes using Tailwind CSS.
 
 
-link 🔗https://github.com/Shubham1io/Namaste-Delights
+link 🔗https://shubham1io.github.io/Namaste-Delights
 
 ⚙️ Technology Stack
 
