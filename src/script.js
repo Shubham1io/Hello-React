@@ -79,7 +79,11 @@ const appRouter = createBrowserRouter([
         errorElement: <Error />,
     },
 
-]);
+],
+    {
+        basename: "/Namaste-Delights", // 👈 important for GitHub Pages
+    }
+);
 
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
